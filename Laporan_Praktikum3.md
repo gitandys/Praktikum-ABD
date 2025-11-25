@@ -226,3 +226,8 @@ Pie chart ini menggambarkan persentase distribusi status absensi karyawan, yaitu
 ### Visualisasi Map Chart:
 ![alt text](image-5.png)
 Map chart ini menampilkan lokasi geografis tiap departemen berdasarkan koordinat latitude dan longitude yang telah ditentukan. Titik-titik pada peta mewakili posisi departemen Finance, HRD, IT, dan Marketing. Visualisasi ini memberikan gambaran spasial terkait sebaran lokasi departemen.
+
+## Deployment
+Setelah seluruh proses pembuatan visualisasi berhasil dijalankan pada aplikasi Streamlit secara lokal, tahap berikutnya adalah melakukan deployment aplikasi agar dapat diakses secara online. Deployment ini dilakukan menggunakan layanan Streamlit Community Cloud (share.streamlit.io) sehingga dashboard dapat digunakan tanpa perlu menjalankan program di komputer lokal. Berikut adalah langkah-langkah proses deployment aplikasi.
+
+Link Streamlit: https://andini-abd.streamlit.app/
